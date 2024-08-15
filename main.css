@@ -35,6 +35,8 @@ h1 {
   align-items: center;
   justify-content: center;
   margin-top: 5%;
+  background-image: url(photo.png);
+  background-repeat: no-repeat;
 }
 button {
   margin-left: 210px;
@@ -122,7 +124,6 @@ ul {
   body {
     width: auto;
     height: 100%;
-    background-image: url("photo.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position-x: -15px;
@@ -158,6 +159,8 @@ ul {
     justify-content: center;
     margin-top: 5%;
     margin-left: 20%;
+    background-image: url(photo.png);
+    background-repeat: no-repeat;
   }
   button {
     margin-left: 85px;
@@ -185,7 +188,6 @@ ul {
   body {
     width: auto;
     height: 100%;
-    background-image: url("photo.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position-x: -15px;
@@ -221,6 +223,8 @@ ul {
     justify-content: center;
     margin-top: 5%;
     margin-left: 20%;
+    background-image: url(photo.png);
+    background-repeat: no-repeat;
   }
   button {
     margin-left: 50px;
