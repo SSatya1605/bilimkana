@@ -35,7 +35,7 @@ h1 {
   align-items: center;
   justify-content: center;
   margin-top: 5%;
-  background-image: url(photo.png);
+  background-image: url("photo.png");
   background-repeat: no-repeat;
 }
 button {
@@ -159,7 +159,7 @@ ul {
     justify-content: center;
     margin-top: 5%;
     margin-left: 20%;
-    background-image: url(photo.png);
+    background-image: url("photo.png");
     background-repeat: no-repeat;
   }
   button {
@@ -223,7 +223,7 @@ ul {
     justify-content: center;
     margin-top: 5%;
     margin-left: 20%;
-    background-image: url(photo.png);
+    background-image: url("photo.png");
     background-repeat: no-repeat;
   }
   button {
