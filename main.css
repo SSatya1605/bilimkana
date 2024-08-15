@@ -94,7 +94,7 @@ button:hover {
     max-width: 250px;
     width: 150%;
     border-top-right-radius: 20px;
-    border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 150px;
     margin-left: 55px;
     height: 400px;
   }
@@ -157,7 +157,7 @@ button:hover {
     max-width: 250px;
     width: 150%;
     border-top-right-radius: 20px;
-    border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 150px;
     margin-left: 55px;
     height: 400px;
   }
