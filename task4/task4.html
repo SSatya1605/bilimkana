@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <title>STECH TRAVELS</title>
+    <link rel="stylesheet" type="text/css" href="newcss.css" />
+  </head>
+  <body>
+    <br />
+    <br />
+    <br />
+    <marquee behavior="alternate">WELCOME TO STECH TRAVELS </marquee>
+    <br />
+    <br />
+    <div id="main">
+      <div id="inner_main">
+        <div id="content">
+          <form action="">
+            <p>Select The Place You Want To Visit</p>
+            <select
+              id="select"
+              onchange="window.open(this.options[this.selectedIndex].value);"
+            >
+              <option value="#">select your country</option>
+              <option value="india.html">India</option>
+              <option value="USA.html">USA</option>
+              <option value="Africa.html">Africa</option>
+            </select>
+          </form>
+          <br />
+          <center>
+            <img src="travel.jpg" alt="" width="500" height="300" />
+          </center>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

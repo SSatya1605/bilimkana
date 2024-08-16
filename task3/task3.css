@@ -1,0 +1,37 @@
+td,
+tr {
+  font-size: 20px;
+  font-style: italic;
+  font-family: monospace;
+  color: #ffffff;
+  height: 30px;
+  padding: 5px;
+}
+#content {
+  display: flex;
+  padding-top: 15%;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+#inner {
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  max-width: 550px;
+  width: 50%;
+  border-radius: 20px;
+  margin: 5px;
+}
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+body {
+  background-image: url("photo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 30px;
+  background-position-y: 30px;
+  background-color: #bdd6c4;
+}

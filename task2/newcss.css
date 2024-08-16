@@ -1,0 +1,78 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  background: linear-gradient(to right, #9999ff 12%, #ff5050 100%);
+}
+header {
+  background-color: #000;
+  margin-bottom: 5px;
+}
+#logo {
+  text-align: center;
+  margin: auto;
+  font-family: monospace;
+}
+a {
+  text-decoration: none;
+  background-color: transparent;
+  color: azure;
+}
+tr,
+td {
+  display: block;
+}
+#table {
+  height: 85%;
+  table-layout: fixed;
+  overflow: scroll;
+  width: 480px;
+  margin-bottom: 10px;
+  float: right;
+}
+#content {
+  margin-left: 20px;
+  width: 800px;
+  float: left;
+  height: 700px;
+  background: linear-gradient(to top left, #ffcc66 17%, #ccccff 61%);
+}
+#inner_c {
+  margin-top: 50px;
+  margin-left: 50px;
+  align-content: center;
+  width: 700px;
+  height: 600px;
+  border-radius: 10px;
+  background: linear-gradient(to top left, #ffffff 6%, #cc6699 61%);
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: #ffffff;
+}
+p {
+  font-size: 25px;
+  display: run-in;
+  text-align: start;
+  justify-content: flex-end;
+}
+#main {
+  min-height: 730px;
+}
+footer {
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+}
+input {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+#suggest {
+  color: aqua;
+  background: chocolate;
+  text-align: center;
+  padding-bottom: 10px;
+}
